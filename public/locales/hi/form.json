@@ -1,0 +1,19 @@
+{
+    "fields": {
+        "name": {
+            "label": "नाम",
+            "placeholder": "अपना नाम दर्ज करें"
+        },
+        "email": {
+            "label": "ईमेल",
+            "placeholder": "अपना ईमेल दर्ज करें"
+        },
+        "password": {
+            "label": "कूटशब्द",
+            "placeholder": "अपना कूटशब्द भरें"
+        },
+        "button": {
+            "label": "पंजीकरण करवाना"
+        }
+    }
+}

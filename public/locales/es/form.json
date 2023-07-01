@@ -1,0 +1,19 @@
+{
+    "fields": {
+        "name": {
+            "label": "Nombre",
+            "placeholder": "Introduzca su nombre"
+        },
+        "email": {
+            "label": "Correo electrónico",
+            "placeholder": "Introduce tu correo electrónico"
+        },
+        "password": {
+            "label": "Contraseña",
+            "placeholder": "Ingresa tu contraseña"
+        },
+        "button": {
+            "label": "Registro"
+        }
+    }
+}

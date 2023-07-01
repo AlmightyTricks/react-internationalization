@@ -1,0 +1,23 @@
+.navbar {
+    background-color: rgb(5, 46, 78);
+    height: 50px;
+  }
+  
+  .nav-list {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100%;
+    padding: 0 20px;
+  }
+  
+  .nav-item {
+    color: white;
+    margin-right: 10px;
+  }
+  
+  #select-box {
+    height: 30px;
+  }
+  
